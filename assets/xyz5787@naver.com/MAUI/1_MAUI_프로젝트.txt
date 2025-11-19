@@ -1,0 +1,23 @@
+. 프로젝트 생성 : MauiMvvm
+  > 2025년 10월 30일 MAUI프로젝트 Framework .NET 8.0을 생성하니까 NETSDK1202 오류 발행
+  > Framework .NET 9.0 버전으로 표준 개발 정리
+
+. 프로젝트 기능
+  > 기본 서비스 구현 : AuthService, WebApiService
+  > MVVM 구현 
+       . LoginPage
+  > 포인트 모바일 바코드 스캔너
+       . Java 샘플 프로그램을 가지고 Gemini로 SimpleScanService.cs 만듬
+       . 데이터를 받아서 Event로 처리하는데 OnAppearing, OnDispearing에서  event +- 로 쓸데없이 고생함
+       . MessagingCenter가 deprecated라로 나타나서 WeakReferenceMessenger로 처리
+
+  > 자동으로 apk파일 다운로드
+      > 배포파일 만들기
+      > 버전 체크
+      > 권한 요청
+      > 다운로드
+      > 프로그램 설치
+
+> Margin : left, top, right, bottom
+> 폰트, 이미지 
+     > https://www.youtube.com/watch?v=lMViuJMGd5w

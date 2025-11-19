@@ -1,72 +1,35 @@
 {
   "qC53z7Q2F8QYZeGJEDQF8qlkz562": {
-    "WebAPI": {
-      "0": "bbs-memo-순서11.txt",
-      "1": "bbs-memo-순서2.txt",
-      "2": "zpl.pdf"
-    },
-    "Android": {
-      "0": "bbs-memo-순서11.txt",
-      "1": "bbs-memo-순서2.txt",
-      "2": "zpl.pdf"
+    "WebApi": {
+      "0": "CreateProject.docx",
+      "1": "WebApi_배포.docx"
     },
     "Angular": {
-      "0": "IIS배포.docx",
       "1": "bbs-memo-순서1.txt",
       "2": "bbs-memo-순서2.txt",
       "3": "bbs-memo-설명.txt",
-      "4": "Chart.docx",
-      "5": "dbcommand_처리.txt",
-      "6": "firebase_realtime.docx",
-      "Problems": {
-        "0": "111.txt", 
-        "2": "222.txt"
-      }
+      "4": "firebase_realtime.docx",
+      "5": "firestore_1.docx",
+      "6": "IIS배포.docx",
+      "7": "Chart.docx",
+      "8": "dbcommand_처리.txt",
+      "9": "html.txt"
+    },
+    "Angular-mobile": {
+      "1": "반응형 웹 디자인.docx",
+      "1": "shareReplay.docx"
     },
     "MAUI": {
-      "1": "배포.docx",
-      "2": "MAUI실행순서.docx",
+      "0": "1_MAUI_프로젝트.txt",
+      "1": "1_MAUI프로젝트 생성.docx",
+      "2": "1_MAUI실행순서.docx",
       "3": "MAUI프로젝트 생성_배포.docx",
-      "4": "ReadMe_설정.txt"
+      "4": "MAUI실행순서.docx",
+      "5": "배포.docx",
+      "6": "ReadMe_설정.txt"
     },
+    "Android": "",
     "Phython": "",
     "WCF": ""
-  },
-  "user_A": {
-    "Angular": [
-      {
-        "filename": "file1.pdf"
-      },
-      {
-        "filename": "file2.docx"
-      }
-    ],
-    "Github": [
-      {
-        "filename": "file1.pdf"
-      },
-      {
-        "filename": "file2.docx"
-      }
-    ],
-    "displayName": "nakdong"
-  },
-  "user_B": {
-    "Angular": [
-      {
-        "filename": "file1.pdf"
-      },
-      {
-        "filename": "file2.docx"
-      }
-    ],
-    "Github": [
-      {
-        "filename": "file1.pdf"
-      },
-      {
-        "filename": "file2.docx"
-      }
-    ]
   }
 }

@@ -1,0 +1,4 @@
+
+.note-form > label : 자식 결합자,.note-form의 직계 자식인 label만
+.note-form label : 하위 선택자,".note-form 내부에 있는 모든 label (자식, 손자 등)
+
